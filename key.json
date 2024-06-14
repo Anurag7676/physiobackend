@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stage-physio",
+  "private_key_id": "e43bd8a6b483c3b0f9b881fac47dead6c1e0f0d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD1rX2xOFHUz7sq\nF7MvdJCXXa8tpmL+bvx6qKJTu8ECY/eLcyGr2trdamWULtGm1FKuyJ9+hDJ2dRGG\ne6x3XxZUUZr3ogsZYmCh6ZN18ce0Irt/e8XkXGrxYnn4fHHiaoyQMJUuaMmvaAqT\nP0+5aulni6MsRfMGmJpHDpvXRjHb+XFBRbwfnDZmwz909qvkAeQsrEll2lX0Ey55\nMGoPZOH2PRRbTSCUDAJ9cilMWjPAgDlumnQyIXnjzHP0z4zHqn5trLNYlDw1/DFl\nlx3bBroZdEUQpT0sv0xQPcxWCM9DApMpCZ4+/OSO9W4weHiQNvpfH6B/XFSWbzA3\n3YDaKokbAgMBAAECggEATd+Tz2h4O9oqzBFeGWU77dbiz7gFefvpKOIqLht99wmD\n7l5spmJFbNisYRekGdsEaGWsdLhnnHfIOdYa2W25ELobQnJJTV8LHVeCB+k/MYCu\n6R5tIFERDvl1iwe7O5clfhEAQIkzoNd8PqdbWH0khc9TxhVYDtexU2O0jzyvUje0\nqgoQ5Prjku6giQ9sKMwTbHe47QA4xJLe6z95peaA8WHbVwGqoE/jwXG2TyLUZBS5\nhh/la9U5ogK8B1SMmWsSyUBI4+Fy6tZhN30/aQXR0UUfgpxMK1I5ePdN4wbqAhN2\n8J29g9k28Skzn+DWS0Xd1Mhk69Awb+dTQ3HoB7dYBQKBgQD8vxSIzQIwW1XfQFwy\nu4fX5Uf5anqmEB6gAkMLq+8bEbHdiRhKJLw1JV6omqQYq8vjvYJKNkEk5pHeU1e8\nQJ4yz7puMRsnmRUN+4fzRvpUWD61fEIdfD0ZkSK1954R98+TZAR67izeIw5QV1Au\nfVaDRaWyLDb6ni1CYHroDAb6rwKBgQD41x2zFCY9Dve+RhdARttv4EFtHJb0RPHh\n5gxuXHVg20Eir7aQeaUKzYfk33dl2qp+QyI84QWWBeGqIUEmG5RqxDplr5fOI1dd\n5xlXLGADf8whesTsyUeokwP1S38wjfe6w4bXDR+f3JFRT01eSfXdD7nIN+KcbCl3\nDxpwBPrDVQKBgCUsWXHRbTv9gwDF74mKqW0ojNBzR7y67DYufvvtesppbNafflIR\nWxkZ+PUlYXM7eU5ypgISPryVqOihK2tFub7RbKMeV9cYHc+jqhgu3UygegCpWPQL\nPNVQ0mEfHUGZSA9ui3YlJ7Y4Q7evT9y2lI3UJY2yERgFQbTcidctRa2DAoGAMegy\n9K+d27EczvSPxTxw1kdL1+5b+DG7sWrKI3g3sm1G6wYCv4cmKrx9/NE0ySDKAPjF\n7R/UVvpnABAbWOE/KwqgC7Tj5VwBMbwfwPQNbaY78psE09iqnoydxpyVrc9LWBHP\nAWKIbS93la8p/TcoMGXvBNDwih7HUjGdQ8o74OECgYAh14ilaHrUVxeZPW0nYTL2\ngHCnQ9fgbip99/Qi+VlH2j4OrzK3QiIJ1wBKGDAkcDzUgzdVjHGOkuYIj5q9oETa\nc2Ypzc/xUZnxE3h37Ybm3joah2hRT2tNz+ko4lQ2aZcKAlkW3svhRdyjtFG/r/Rj\nC95ZWtopXsTrZYh5XzqENg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vb7mv@stage-physio.iam.gserviceaccount.com",
+  "client_id": "103662449501990655422",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vb7mv%40stage-physio.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
